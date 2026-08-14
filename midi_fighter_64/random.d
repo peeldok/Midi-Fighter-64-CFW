@@ -1,0 +1,2 @@
+random.o: random.c random.h
+random.h:

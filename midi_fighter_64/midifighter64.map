@@ -1,0 +1,1346 @@
+Archive member included to satisfy reference by file (symbol)
+
+F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+                              led.o (__udivmodhi4)
+F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+                              key.o (__divmodhi4)
+F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+                              led.o (__udivmodsi4)
+F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+                              F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o (exit)
+F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+                              midifighter64.o (__tablejump2__)
+F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+                              led.o (__do_copy_data)
+F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+                              midifighter64.o (__do_clear_bss)
+F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+                              midifighter64.o (__ashldi3)
+F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+                              midifighter64.o (__lshrdi3)
+F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+                              midifighter64.o (__cmpdi2_s8)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+ .text          0x00000000        0x0 midifighter64.o
+ .data          0x00000000        0x0 midifighter64.o
+ .text          0x00000000        0x0 eeprom.o
+ .data          0x00000000        0x0 eeprom.o
+ .text          0x00000000        0x0 led.o
+ .text          0x00000000        0x0 key.o
+ .data          0x00000000        0x0 key.o
+ .text          0x00000000        0x0 midi.o
+ .text          0x00000000        0x0 random.o
+ .bss           0x00000000        0x0 random.o
+ .text          0x00000000        0x0 display.o
+ .text          0x00000000        0x0 usb_descriptors.o
+ .data          0x00000000        0x0 usb_descriptors.o
+ .bss           0x00000000        0x0 usb_descriptors.o
+ .text          0x00000000        0x0 native_usb.o
+ .data          0x00000000        0x0 native_usb.o
+ .text          0x00000000        0x0 jumptoboot.o
+ .data          0x00000000        0x0 jumptoboot.o
+ .bss           0x00000000        0x0 jumptoboot.o
+ .text          0x00000000        0x0 sysex.o
+ .text          0x00000000        0x0 config.o
+ .data          0x00000000        0x0 config.o
+ .bss           0x00000000        0x0 config.o
+ .text          0x00000000        0x0 fastrgb.o
+ .data          0x00000000        0x0 fastrgb.o
+ .text          0x00000000        0x0 palettes.o
+ .data          0x00000000        0x0 palettes.o
+ .bss           0x00000000        0x0 palettes.o
+ .text          0x00000000        0x0 rotation.o
+ .data          0x00000000        0x0 rotation.o
+ .text          0x00000000        0x0 settings_ui.o
+ .data          0x00000000        0x0 settings_ui.o
+ .bss           0x00000000        0x0 settings_ui.o
+ .text          0x00000000        0x0 boot_animation.o
+ .data          0x00000000        0x0 boot_animation.o
+ .bss           0x00000000        0x0 boot_animation.o
+ .text          0x00000000        0x0 idle.o
+ .data          0x00000000        0x0 idle.o
+ .text          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+ .text          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .data          0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000a00         rw!x
+eeprom           0x00810000         0x00000400         rw!x
+fuse             0x00820000         0x00000003         rw!x
+lock             0x00830000         0x00000400         rw!x
+signature        0x00840000         0x00000400         rw!x
+user_signatures  0x00850000         0x00000400         rw!x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+LOAD midifighter64.o
+LOAD eeprom.o
+LOAD led.o
+LOAD key.o
+LOAD midi.o
+LOAD random.o
+LOAD display.o
+LOAD usb_descriptors.o
+LOAD native_usb.o
+LOAD jumptoboot.o
+LOAD sysex.o
+LOAD config.o
+LOAD fastrgb.o
+LOAD palettes.o
+LOAD rotation.o
+LOAD settings_ui.o
+LOAD boot_animation.o
+LOAD idle.o
+LOAD F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a
+LOAD F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libm.a
+LOAD F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libc.a
+LOAD F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5\libatmega32u4.a
+END GROUP
+                [0x00000000]                      __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00008000]                      __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00800100]                      __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00000a00]                      __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                      __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                      __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                        __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                        __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                        __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x508e
+ *(.vectors)
+ .vectors       0x00000000       0xac F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000ac                        . = ALIGN (0x2)
+                0x000000ac                        __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000ac        0x0 linker stubs
+ *(.trampolines*)
+                0x000000ac                        __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+ .progmem.data  0x000000ac       0xd9 usb_descriptors.o
+ .progmem.data  0x00000185      0x480 palettes.o
+                0x00000185                _b3
+                0x00000205                _g3
+                0x00000285                _r3
+                0x00000305                _b2
+                0x00000385                _g2
+                0x00000405                _r2
+                0x00000485                _b
+                0x00000505                _g
+                0x00000585                _r
+ .progmem.data  0x00000605      0x100 rotation.o
+ .progmem.data  0x00000705       0x28 settings_ui.o
+ .progmem.data  0x0000072d      0xbae boot_animation.o
+                0x000012dc                        . = ALIGN (0x2)
+ *fill*         0x000012db        0x1 
+ *(.lowtext)
+ *(.lowtext*)
+                0x000012dc                        __ctors_start = .
+ *(.ctors)
+                0x000012dc                        __ctors_end = .
+                0x000012dc                        __dtors_start = .
+ *(.dtors)
+                0x000012dc                        __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x000012dc        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+                0x000012dc                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000012dc        0xc F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+ *(.init2)
+ *(.init3)
+ .init3         0x000012e8       0x34 jumptoboot.o
+                0x000012e8                Bootloader_Jump_Check
+ *(.init3)
+ *(.init4)
+ .init4         0x0000131c       0x16 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+                0x0000131c                __do_copy_data
+ .init4         0x00001332       0x10 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+                0x00001332                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00001342        0x6 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+ *(.init9)
+ *(.text)
+ .text          0x00001348        0x4 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+                0x00001348                __vector_38
+                0x00001348                __vector_22
+                0x00001348                __vector_28
+                0x00001348                __vector_1
+                0x00001348                __vector_32
+                0x00001348                __vector_34
+                0x00001348                __vector_24
+                0x00001348                __vector_12
+                0x00001348                __bad_interrupt
+                0x00001348                __vector_6
+                0x00001348                __vector_31
+                0x00001348                __vector_35
+                0x00001348                __vector_39
+                0x00001348                __vector_3
+                0x00001348                __vector_30
+                0x00001348                __vector_25
+                0x00001348                __vector_13
+                0x00001348                __vector_17
+                0x00001348                __vector_19
+                0x00001348                __vector_7
+                0x00001348                __vector_41
+                0x00001348                __vector_27
+                0x00001348                __vector_5
+                0x00001348                __vector_33
+                0x00001348                __vector_37
+                0x00001348                __vector_4
+                0x00001348                __vector_9
+                0x00001348                __vector_2
+                0x00001348                __vector_21
+                0x00001348                __vector_15
+                0x00001348                __vector_36
+                0x00001348                __vector_29
+                0x00001348                __vector_40
+                0x00001348                __vector_8
+                0x00001348                __vector_26
+                0x00001348                __vector_14
+                0x00001348                __vector_16
+                0x00001348                __vector_18
+                0x00001348                __vector_42
+                0x0000134c                        . = ALIGN (0x2)
+ *(.text.*)
+ .text.EVENT_USB_Device_Connect
+                0x0000134c        0x2 midifighter64.o
+                0x0000134c                EVENT_USB_Device_Connect
+ .text.EVENT_USB_Device_ConfigurationChanged
+                0x0000134e       0x18 midifighter64.o
+                0x0000134e                EVENT_USB_Device_ConfigurationChanged
+ .text.startup.main
+                0x00001366      0x3da midifighter64.o
+                0x00001366                main
+ .text.eeprom_write
+                0x00001740       0x16 eeprom.o
+                0x00001740                eeprom_write
+ .text.eeprom_read
+                0x00001756       0x10 eeprom.o
+                0x00001756                eeprom_read
+ .text.eeprom_update
+                0x00001766       0x38 eeprom.o
+                0x00001766                eeprom_update
+ .text.eeprom_factory_reset
+                0x0000179e      0x186 eeprom.o
+                0x0000179e                eeprom_factory_reset
+ .text.eeprom_setup
+                0x00001924       0x36 eeprom.o
+                0x00001924                eeprom_setup
+ .text.__vector_20
+                0x0000195a       0xc8 led.o
+                0x0000195a                __vector_20
+ .text.led_setup
+                0x00001a22       0x62 led.o
+                0x00001a22                led_setup
+ .text.led_disable
+                0x00001a84        0xc led.o
+                0x00001a84                led_disable
+ .text.led_enable
+                0x00001a90        0xc led.o
+                0x00001a90                led_enable
+ .text.led_set_state_dfu
+                0x00001a9c      0x206 led.o
+                0x00001a9c                led_set_state_dfu
+ .text.led_brightness_set
+                0x00001ca2       0x3a led.o
+                0x00001ca2                led_brightness_set
+ .text.led_brightness_get
+                0x00001cdc        0x6 led.o
+                0x00001cdc                led_brightness_get
+ .text.led_brightness_setup
+                0x00001ce2       0x2e led.o
+                0x00001ce2                led_brightness_setup
+ .text.led_update_pixels
+                0x00001d10      0x36e led.o
+                0x00001d10                led_update_pixels
+ .text.key_setup
+                0x0000207e       0xbe key.o
+                0x0000207e                key_setup
+ .text.__vector_23
+                0x0000213c      0x110 key.o
+                0x0000213c                __vector_23
+ .text.key_read
+                0x0000224c       0x72 key.o
+                0x0000224c                key_read
+ .text.key_calc
+                0x000022be      0x132 key.o
+                0x000022be                key_calc
+ .text.midi_set_sysex_response_cable
+                0x000023f0        0x8 midi.o
+                0x000023f0                midi_set_sysex_response_cable
+ .text.midi_stream_note_ch
+                0x000023f8       0x52 midi.o
+                0x000023f8                midi_stream_note_ch
+ .text.midi_stream_raw_cc
+                0x0000244a       0x3c midi.o
+                0x0000244a                midi_stream_raw_cc
+ .text.midi_stream_sysex_cable
+                0x00002486       0xe4 midi.o
+                0x00002486                midi_stream_sysex_cable
+ .text.midi_stream_sysex
+                0x0000256a        0x6 midi.o
+                0x0000256a                midi_stream_sysex
+ .text.midi_64_key_to_note
+                0x00002570        0x8 midi.o
+                0x00002570                midi_64_key_to_note
+ .text.midi_clock
+                0x00002578       0x40 midi.o
+                0x00002578                midi_clock
+ .text.random16
+                0x000025b8       0x36 random.o
+                0x000025b8                random16
+ .text.draw_animation.constprop.0
+                0x000025ee       0x56 display.o
+ .text.start_geometric_animation
+                0x00002644       0x1c display.o
+                0x00002644                start_geometric_animation
+ .text.default_display_run
+                0x00002660      0x100 display.o
+                0x00002660                default_display_run
+ .text.adjust_inactive_bank_leds_for_power
+                0x00002760       0xf8 display.o
+                0x00002760                adjust_inactive_bank_leds_for_power
+ .text.adjust_active_bank_leds_for_power
+                0x00002858        0x2 display.o
+                0x00002858                adjust_active_bank_leds_for_power
+ .text.usb_descriptor_get
+                0x0000285a       0x5c usb_descriptors.o
+                0x0000285a                usb_descriptor_get
+ .text.USB_Init
+                0x000028b6       0x80 native_usb.o
+                0x000028b6                USB_Init
+ .text.USB_Disable
+                0x00002936       0x44 native_usb.o
+                0x00002936                USB_Disable
+ .text.MIDI_Device_ReceiveEventPacket
+                0x0000297a       0x7a native_usb.o
+                0x0000297a                MIDI_Device_ReceiveEventPacket
+ .text.MIDI_Device_SendEventPacket
+                0x000029f4       0x78 native_usb.o
+                0x000029f4                MIDI_Device_SendEventPacket
+ .text.MIDI_Device_Flush
+                0x00002a6c       0x2c native_usb.o
+                0x00002a6c                MIDI_Device_Flush
+ .text.__vector_10
+                0x00002a98       0x54 native_usb.o
+                0x00002a98                __vector_10
+ .text.__vector_11
+                0x00002aec      0x2cc native_usb.o
+                0x00002aec                __vector_11
+ .text.Jump_To_Bootloader
+                0x00002db8       0x44 jumptoboot.o
+                0x00002db8                Jump_To_Bootloader
+ .text.web_send_palette_ack
+                0x00002dfc       0x58 sysex.o
+ .text.web_send_settings
+                0x00002e54       0x62 sysex.o
+ .text.sysex_process.constprop.0
+                0x00002eb6      0x2f4 sysex.o
+ .text.sysex_install_
+                0x000031aa       0x1c sysex.o
+                0x000031aa                sysex_install_
+ .text.sysex_handle_3sc
+                0x000031c6      0x17e sysex.o
+                0x000031c6                sysex_handle_3sc
+ .text.sysex_handle_3e
+                0x00003344      0x130 sysex.o
+                0x00003344                sysex_handle_3e
+ .text.sysex_handle_2e
+                0x00003474       0x84 sysex.o
+                0x00003474                sysex_handle_2e
+ .text.sysex_handle_1e
+                0x000034f8       0x66 sysex.o
+                0x000034f8                sysex_handle_1e
+ .text.send_config_data
+                0x0000355e      0x15e config.o
+ .text.sysExCmdPullConfig
+                0x000036bc       0x3a config.o
+ .text.sysExCmdBulkXfer
+                0x000036f6      0x2da config.o
+ .text.sysExCmdSystem
+                0x000039d0       0x72 config.o
+ .text.sysExCmdPushConfig
+                0x00003a42      0x1a8 config.o
+ .text.config_setup
+                0x00003bea       0x20 config.o
+                0x00003bea                config_setup
+ .text.fastrgb_set_rgb8_palette
+                0x00003c0a       0x6c fastrgb.o
+ .text.ch4_write_group6
+                0x00003c76       0x74 fastrgb.o
+ .text.fastrgb_clear
+                0x00003cea       0x10 fastrgb.o
+                0x00003cea                fastrgb_clear
+ .text.fastrgb_decompress
+                0x00003cfa      0x1ee fastrgb.o
+                0x00003cfa                fastrgb_decompress
+ .text.fastrgb_list
+                0x00003ee8       0xa0 fastrgb.o
+                0x00003ee8                fastrgb_list
+ .text.fastrgb_single_unsafe
+                0x00003f88       0x4e fastrgb.o
+                0x00003f88                fastrgb_single_unsafe
+ .text.fastrgb_palette_single
+                0x00003fd6       0x46 fastrgb.o
+                0x00003fd6                fastrgb_palette_single
+ .text.fastrgb_ch4_read_component6
+                0x0000401c       0xdc fastrgb.o
+                0x0000401c                fastrgb_ch4_read_component6
+ .text.fastrgb_ch4_write_component6
+                0x000040f8       0x58 fastrgb.o
+                0x000040f8                fastrgb_ch4_write_component6
+ .text.fastrgb_ch4_read_color
+                0x00004150       0x8a fastrgb.o
+                0x00004150                fastrgb_ch4_read_color
+ .text.fastrgb_ch4_setup
+                0x000041da       0xf4 fastrgb.o
+                0x000041da                fastrgb_ch4_setup
+ .text.fastrgb_ch4_single
+                0x000042ce       0x3a fastrgb.o
+                0x000042ce                fastrgb_ch4_single
+ .text.rotation_sysex
+                0x00004308       0x7e rotation.o
+ .text.rotation_setup
+                0x00004386       0x48 rotation.o
+                0x00004386                rotation_setup
+ .text.rotation_set
+                0x000043ce        0x8 rotation.o
+                0x000043ce                rotation_set
+ .text.rotation_get
+                0x000043d6        0x6 rotation.o
+                0x000043d6                rotation_get
+ .text.rotation_logical_to_physical
+                0x000043dc       0x1a rotation.o
+                0x000043dc                rotation_logical_to_physical
+ .text.rotation_physical_to_logical
+                0x000043f6       0x1e rotation.o
+                0x000043f6                rotation_physical_to_logical
+ .text.settings_copy_to_display
+                0x00004414       0x20 settings_ui.o
+ .text.settings_discard_midi
+                0x00004434       0x3a settings_ui.o
+ .text.settings_render
+                0x0000446e      0x162 settings_ui.o
+ .text.settings_ui_boot_requested
+                0x000045d0       0x56 settings_ui.o
+                0x000045d0                settings_ui_boot_requested
+ .text.settings_ui_run
+                0x00004626      0x3d0 settings_ui.o
+                0x00004626                settings_ui_run
+ .text.boot_animation_discard_midi
+                0x000049f6       0x3a boot_animation.o
+ .text.boot_animation_play
+                0x00004a30      0x10c boot_animation.o
+                0x00004a30                boot_animation_play
+ .text.idle_init
+                0x00004b3c       0x4c idle.o
+                0x00004b3c                idle_init
+ .text.idle_tick
+                0x00004b88      0x3b0 idle.o
+                0x00004b88                idle_tick
+ .text.libgcc.div
+                0x00004f38       0x28 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00004f38                __udivmodhi4
+ .text.libgcc.div
+                0x00004f60       0x26 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00004f60                _div
+                0x00004f60                __divmodhi4
+ .text.libgcc.div
+                0x00004f86       0x44 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00004f86                __udivmodsi4
+ .text.libgcc   0x00004fca        0xc F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+                0x00004fca                __tablejump2__
+ .text.libgcc.builtins
+                0x00004fd6       0x32 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+                0x00004fd6                __ashldi3
+ .text.libgcc.builtins
+                0x00005008       0x3a F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+                0x00005008                __ashrdi3
+                0x0000500c                __lshrdi3
+ .text.libgcc   0x00005042       0x18 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+                0x00005042                __cmpdi2_s8
+                0x0000505a                        . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000505a        0x0 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+                0x0000505a                _exit
+                0x0000505a                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000505a        0x4 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x0000505e                        . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ .jumptables.gcc.main
+                0x0000505e       0x18 midifighter64.o
+ .jumptables.gcc.__vector_11
+                0x00005076       0x18 native_usb.o
+                0x0000508e                        _etext = .
+
+.data           0x00800100       0xae load address 0x0000508e
+                0x00800100                        PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x00800100        0x3 led.o
+ .data          0x00800103        0x2 midi.o
+                0x00800103                G_EE_MIDI_VELOCITY
+                0x00800104                G_EE_MIDI_CHANNEL
+ .data          0x00800105        0x2 random.o
+ .data          0x00800107        0x1 display.o
+                0x00800107                geometric_animation_pos
+ .data          0x00800108        0x1 sysex.o
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800109       0x30 led.o
+ .rodata        0x00800139       0x3c display.o
+                0x00800139                default_color
+ .rodata        0x00800175        0xc usb_descriptors.o
+ .rodata        0x00800181       0x11 sysex.o
+ .rodata        0x00800192       0x18 fastrgb.o
+ .rodata        0x008001aa        0x3 settings_ui.o
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x008001ae                        . = ALIGN (0x2)
+ *fill*         0x008001ad        0x1 
+                0x008001ae                        _edata = .
+                0x008001ae                        PROVIDE (__data_end = .)
+
+.bss            0x008001ae      0x69b
+                0x008001ae                        PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x008001ae        0x1 midifighter64.o
+ .bss           0x008001af        0x2 eeprom.o
+                0x008001af                G_EE_SLEEP_TIME
+                0x008001b0                G_EE_MIDI_OUTPUT_MODE
+ .bss           0x008001b1      0x320 led.o
+                0x008001b1                sleep_minute_counter
+                0x008001b2                one_second_counter
+                0x008001b3                half_ms_counter
+                0x008001b5                display_flash_counter
+                0x008001b7                g_led_counter
+ .bss           0x008004d1       0x75 key.o
+                0x008004d1                system_time_ms
+                0x008004d5                g_key_down
+                0x008004dd                g_key_up
+                0x008004e5                g_key_prev_state
+                0x008004ed                g_key_state
+ .bss           0x00800546       0x43 midi.o
+                0x00800546                g_midi_note_off_counter
+                0x00800586                ticks
+                0x00800587                midi_clock_enabled
+ .bss           0x00800589       0xc0 display.o
+                0x00800589                g_display_buffer
+ .bss           0x00800649        0x6 native_usb.o
+                0x00800649                USB_DeviceState
+ .bss           0x0080064f      0x122 sysex.o
+                0x0080064f                sysExCommandMap
+ .bss           0x00800771       0xc0 fastrgb.o
+                0x00800771                g_fastrgb_state
+ .bss           0x00800831        0x1 rotation.o
+ .bss           0x00800832       0x17 idle.o
+ *(.bss*)
+ *(COMMON)
+                0x00800849                        PROVIDE (__bss_end = .)
+                0x0000508e                        __data_load_start = LOADADDR (.data)
+                0x0000513c                        __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800849        0x4
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+ .noinit        0x00800849        0x4 jumptoboot.o
+                0x00800849                Boot_Key
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x0080084d                        _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+                0x00000000                        __flmap_init_label = DEFINED (__flmap_noinit_start)?__flmap_noinit_start:0x0
+                0x00000000                        __flmap = DEFINED (__flmap)?__flmap:0x0
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                        __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2f
+ *(.comment)
+ .comment       0x00000000       0x2f midifighter64.o
+                                 0x30 (size before relaxing)
+ .comment       0x0000002f       0x30 eeprom.o
+ .comment       0x0000002f       0x30 led.o
+ .comment       0x0000002f       0x30 key.o
+ .comment       0x0000002f       0x30 midi.o
+ .comment       0x0000002f       0x30 random.o
+ .comment       0x0000002f       0x30 display.o
+ .comment       0x0000002f       0x30 usb_descriptors.o
+ .comment       0x0000002f       0x30 native_usb.o
+ .comment       0x0000002f       0x30 jumptoboot.o
+ .comment       0x0000002f       0x30 sysex.o
+ .comment       0x0000002f       0x30 config.o
+ .comment       0x0000002f       0x30 fastrgb.o
+ .comment       0x0000002f       0x30 palettes.o
+ .comment       0x0000002f       0x30 rotation.o
+ .comment       0x0000002f       0x30 settings_ui.o
+ .comment       0x0000002f       0x30 boot_animation.o
+ .comment       0x0000002f       0x30 idle.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x9f4
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x9f4 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+
+.debug_abbrev   0x00000000      0x96a
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x96a F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+
+.debug_line     0x00000000       0x1d
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0x371
+ *(.debug_str)
+ .debug_str     0x00000000      0x371 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(midifighter64.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+Boot_Key                                          jumptoboot.o
+Bootloader_Jump_Check                             jumptoboot.o
+EVENT_USB_Device_ConfigurationChanged             midifighter64.o
+                                                  native_usb.o
+EVENT_USB_Device_Connect                          midifighter64.o
+                                                  native_usb.o
+EVENT_USB_Device_Disconnect                       native_usb.o
+G_EE_MIDI_CHANNEL                                 midi.o
+                                                  eeprom.o
+                                                  midifighter64.o
+G_EE_MIDI_OUTPUT_MODE                             eeprom.o
+                                                  midifighter64.o
+G_EE_MIDI_VELOCITY                                midi.o
+                                                  sysex.o
+                                                  eeprom.o
+G_EE_SLEEP_TIME                                   eeprom.o
+                                                  display.o
+Jump_To_Bootloader                                jumptoboot.o
+                                                  config.o
+                                                  midifighter64.o
+MIDI_Device_Flush                                 native_usb.o
+                                                  config.o
+                                                  midifighter64.o
+MIDI_Device_ReceiveEventPacket                    native_usb.o
+                                                  boot_animation.o
+                                                  settings_ui.o
+                                                  midifighter64.o
+MIDI_Device_SendEventPacket                       native_usb.o
+                                                  midi.o
+USB_DeviceState                                   native_usb.o
+                                                  boot_animation.o
+                                                  settings_ui.o
+                                                  midifighter64.o
+USB_Disable                                       native_usb.o
+                                                  jumptoboot.o
+USB_Init                                          native_usb.o
+                                                  midifighter64.o
+__DATA_REGION_LENGTH__                            F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__DATA_REGION_ORIGIN__                            F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__EEPROM_REGION_LENGTH__                          F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__FUSE_REGION_LENGTH__                            F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__TEXT_REGION_LENGTH__                            F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__TEXT_REGION_ORIGIN__                            F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__ashldi3                                         F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashldi3.o)
+                                                  settings_ui.o
+                                                  key.o
+                                                  midifighter64.o
+__ashrdi3                                         F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+__bad_interrupt                                   F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__bss_end                                         F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+__cmpdi2_s8                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_cmpdi2_s8.o)
+                                                  settings_ui.o
+                                                  display.o
+                                                  midifighter64.o
+__data_end                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+__data_start                                      F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+__divmodhi4                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+                                                  config.o
+                                                  key.o
+__do_clear_bss                                    F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_clear_bss.o)
+                                                  idle.o
+                                                  rotation.o
+                                                  fastrgb.o
+                                                  sysex.o
+                                                  native_usb.o
+                                                  display.o
+                                                  midi.o
+                                                  key.o
+                                                  led.o
+                                                  eeprom.o
+                                                  midifighter64.o
+__do_copy_data                                    F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_copy_data.o)
+                                                  settings_ui.o
+                                                  fastrgb.o
+                                                  sysex.o
+                                                  usb_descriptors.o
+                                                  display.o
+                                                  random.o
+                                                  midi.o
+                                                  led.o
+__heap_end                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__init                                            F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__lshrdi3                                         F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_ashrdi3.o)
+                                                  midifighter64.o
+__stack                                           F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__tablejump2__                                    F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_tablejump2.o)
+                                                  native_usb.o
+                                                  midifighter64.o
+__udivmodhi4                                      F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodhi4.o)
+                                                  F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+                                                  led.o
+__udivmodsi4                                      F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_udivmodsi4.o)
+                                                  led.o
+__vector_1                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_10                                       native_usb.o
+                                                  F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_11                                       native_usb.o
+                                                  F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_12                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_13                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_14                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_15                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_16                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_17                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_18                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_19                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_2                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_20                                       led.o
+                                                  F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_21                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_22                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_23                                       key.o
+                                                  F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_24                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_25                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_26                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_27                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_28                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_29                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_3                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_30                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_31                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_32                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_33                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_34                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_35                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_36                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_37                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_38                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_39                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_4                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_40                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_41                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_42                                       F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_5                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_6                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_7                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_8                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_9                                        F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_default                                  F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+__vectors                                         F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+_b                                                palettes.o
+                                                  fastrgb.o
+_b2                                               palettes.o
+                                                  fastrgb.o
+_b3                                               palettes.o
+                                                  fastrgb.o
+_div                                              F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_divmodhi4.o)
+_exit                                             F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+_g                                                palettes.o
+                                                  fastrgb.o
+_g2                                               palettes.o
+                                                  fastrgb.o
+_g3                                               palettes.o
+                                                  fastrgb.o
+_r                                                palettes.o
+                                                  fastrgb.o
+_r2                                               palettes.o
+                                                  fastrgb.o
+_r3                                               palettes.o
+                                                  fastrgb.o
+adjust_active_bank_leds_for_power                 display.o
+                                                  config.o
+adjust_inactive_bank_leds_for_power               display.o
+                                                  config.o
+boot_animation_play                               boot_animation.o
+                                                  midifighter64.o
+config_setup                                      config.o
+                                                  midifighter64.o
+default_color                                     display.o
+                                                  eeprom.o
+default_display_run                               display.o
+                                                  boot_animation.o
+                                                  midifighter64.o
+display_flash_counter                             led.o
+                                                  midi.o
+eeprom_factory_reset                              eeprom.o
+                                                  config.o
+eeprom_read                                       eeprom.o
+                                                  rotation.o
+                                                  fastrgb.o
+                                                  config.o
+                                                  led.o
+eeprom_setup                                      eeprom.o
+                                                  config.o
+                                                  midifighter64.o
+eeprom_update                                     eeprom.o
+                                                  settings_ui.o
+                                                  fastrgb.o
+                                                  sysex.o
+                                                  led.o
+eeprom_write                                      eeprom.o
+                                                  rotation.o
+                                                  config.o
+exit                                              F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/avr5\libgcc.a(_exit.o)
+                                                  F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+fastrgb_ch4_read_color                            fastrgb.o
+fastrgb_ch4_read_component6                       fastrgb.o
+                                                  sysex.o
+fastrgb_ch4_setup                                 fastrgb.o
+                                                  midifighter64.o
+fastrgb_ch4_single                                fastrgb.o
+                                                  midifighter64.o
+fastrgb_ch4_write_component6                      fastrgb.o
+                                                  sysex.o
+fastrgb_clear                                     fastrgb.o
+                                                  boot_animation.o
+                                                  settings_ui.o
+                                                  sysex.o
+                                                  midifighter64.o
+fastrgb_decompress                                fastrgb.o
+                                                  sysex.o
+fastrgb_list                                      fastrgb.o
+                                                  sysex.o
+fastrgb_palette_single                            fastrgb.o
+                                                  boot_animation.o
+                                                  midifighter64.o
+fastrgb_single_unsafe                             fastrgb.o
+                                                  midifighter64.o
+g_display_buffer                                  display.o
+                                                  boot_animation.o
+                                                  settings_ui.o
+                                                  midifighter64.o
+g_fastrgb_state                                   fastrgb.o
+                                                  settings_ui.o
+                                                  display.o
+g_key_down                                        key.o
+                                                  settings_ui.o
+                                                  display.o
+                                                  midifighter64.o
+g_key_prev_state                                  key.o
+                                                  settings_ui.o
+g_key_state                                       key.o
+                                                  settings_ui.o
+                                                  midifighter64.o
+g_key_up                                          key.o
+                                                  settings_ui.o
+                                                  midifighter64.o
+g_led_counter                                     led.o
+                                                  display.o
+g_midi_note_off_counter                           midi.o
+                                                  midifighter64.o
+geometric_animation_pos                           display.o
+half_ms_counter                                   led.o
+                                                  display.o
+                                                  midifighter64.o
+idle_init                                         idle.o
+                                                  display.o
+idle_tick                                         idle.o
+                                                  display.o
+key_calc                                          key.o
+                                                  settings_ui.o
+                                                  midifighter64.o
+key_read                                          key.o
+                                                  settings_ui.o
+                                                  midifighter64.o
+key_setup                                         key.o
+                                                  midifighter64.o
+led_brightness_get                                led.o
+                                                  settings_ui.o
+led_brightness_set                                led.o
+                                                  settings_ui.o
+led_brightness_setup                              led.o
+                                                  midifighter64.o
+led_disable                                       led.o
+                                                  midifighter64.o
+led_enable                                        led.o
+                                                  settings_ui.o
+                                                  midifighter64.o
+led_set_state_dfu                                 led.o
+                                                  config.o
+                                                  midifighter64.o
+led_setup                                         led.o
+                                                  midifighter64.o
+led_update_pixels                                 led.o
+                                                  boot_animation.o
+                                                  settings_ui.o
+                                                  midifighter64.o
+main                                              midifighter64.o
+                                                  F:/CFW Project/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/15.1.0/../../../../avr/lib/avr5/crtatmega32u4.o
+midi_64_key_to_note                               midi.o
+                                                  midifighter64.o
+midi_clock                                        midi.o
+                                                  midifighter64.o
+midi_clock_enabled                                midi.o
+                                                  led.o
+                                                  midifighter64.o
+midi_set_sysex_response_cable                     midi.o
+                                                  sysex.o
+                                                  midifighter64.o
+midi_stream_note_ch                               midi.o
+                                                  midifighter64.o
+midi_stream_raw_cc                                midi.o
+                                                  midifighter64.o
+midi_stream_sysex                                 midi.o
+                                                  rotation.o
+                                                  config.o
+midi_stream_sysex_cable                           midi.o
+                                                  sysex.o
+one_second_counter                                led.o
+                                                  display.o
+                                                  midifighter64.o
+random16                                          random.o
+                                                  idle.o
+rotation_get                                      rotation.o
+                                                  settings_ui.o
+                                                  sysex.o
+rotation_logical_to_physical                      rotation.o
+                                                  settings_ui.o
+                                                  fastrgb.o
+                                                  midifighter64.o
+rotation_physical_to_logical                      rotation.o
+                                                  midi.o
+rotation_set                                      rotation.o
+                                                  settings_ui.o
+                                                  sysex.o
+rotation_setup                                    rotation.o
+                                                  midifighter64.o
+settings_ui_boot_requested                        settings_ui.o
+                                                  midifighter64.o
+settings_ui_run                                   settings_ui.o
+                                                  midifighter64.o
+sleep_minute_counter                              led.o
+                                                  display.o
+                                                  midifighter64.o
+start_geometric_animation                         display.o
+                                                  config.o
+sysExCommandMap                                   sysex.o
+sysex_handle_1e                                   sysex.o
+                                                  midifighter64.o
+sysex_handle_2e                                   sysex.o
+                                                  midifighter64.o
+sysex_handle_3e                                   sysex.o
+                                                  midifighter64.o
+sysex_handle_3sc                                  sysex.o
+                                                  midifighter64.o
+sysex_install_                                    sysex.o
+                                                  rotation.o
+                                                  config.o
+system_time_ms                                    key.o
+                                                  idle.o
+                                                  midifighter64.o
+ticks                                             midi.o
+usb_descriptor_get                                usb_descriptors.o
+                                                  native_usb.o
